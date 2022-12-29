@@ -3,7 +3,7 @@
   <a href="https://github.com/lc-hongdou/gallery" target="_blank"><img src="https://s2.loli.net/2022/12/30/nJLPaqGQ7gASd6p.webp" ></a>
   
   # 喵喵插件（miao-plugin）角色面板图库
-  [![访问量](https://profile-counter.glitch.me/lc-hongdou-feng/count.svg)](https://github.com/lc-hongdou/feng)
+  [![访问量](https://profile-counter.glitch.me/lc-hongdou-cao/count.svg)](https://github.com/lc-hongdou/cao)
   
 </p>
 
@@ -38,16 +38,16 @@
 
 拉取链接(选其中一个即可)<br>
 ```
-git clone https://gitclone.com/github.com/lc-hongdou/feng.git
+git clone https://gitclone.com/github.com/lc-hongdou/cao.git
 ```
 ```
-git clone https://ghproxy.com/https://github.com/lc-hongdou/feng.git
+git clone https://ghproxy.com/https://github.com/lc-hongdou/cao.git
 ```
 ```
-git clone https://hub.njuu.cf/lc-hongdou/feng.git
+git clone https://hub.njuu.cf/lc-hongdou/cao.git
 ```
 ```
-git clone https://kgithub.com/lc-hongdou/feng.git
+git clone https://kgithub.com/lc-hongdou/cao.git
 ```
 
 放在<br>
